@@ -65,7 +65,7 @@ src/
 │       ├── AnalysisDashboard.tsx # Results tab controller
 │       ├── AtsScoreMeter.tsx    # ATS score gauge, breakdown, & diagnostics
 │       ├── KeywordMatchView.tsx # Matched and missing keywords
-│       ├── UpdatedResumeView.tsx # Updated resume content (summary, bullets, skills)
+│       ├── TailoredResumeView.tsx # Updated resume content (summary, bullets, skills)
 │       └── CoverLetterView.tsx  # Tailored cover letter preview and export
 └── App.tsx                      # Root state coordinator
 ```
